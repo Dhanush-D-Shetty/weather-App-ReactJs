@@ -1,11 +1,11 @@
 
-Weather Application
+Weather Application  <br>
 This project is a single page application (SPA) built using ReactJS to fetch weather data from the OpenWeather API.
 
-Features
-Weather Data: Fetches current weather data from the OpenWeather API.
-Single Page Application: Utilizes ReactJS to provide a seamless user experience without page reloads.
-Responsive Design: The application is designed to be responsive and accessible on various devices.
+Features : <br>
+Weather Data: Fetches current weather data from the OpenWeather API. <br>
+Single Page Application: Utilizes ReactJS to provide a seamless user experience without page reloads. <br>
+Responsive Design: The application is designed to be responsive and accessible on various devices. <br>
 
-Demo
-You can see the live demo of this project  https://weather-app-shetty.netlify.app/.
+Demo : <br>
+    You can see the live demo of this project by clicking here  https://weather-app-shetty.netlify.app/.
